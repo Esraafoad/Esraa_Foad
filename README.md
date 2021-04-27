@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esraa Foad</h1>
-<h3 align="center">A girl who is eager to learn and benefit</h3>
+<h3 align="center">Dreamy girl</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esraafoad&label=Profile%20views&color=0e75b6&style=flat" alt="esraafoad" /> </p>
 
